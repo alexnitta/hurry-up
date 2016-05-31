@@ -5,6 +5,16 @@ The goal of hurry-up is to make sure you are never late to an appointment again.
 
 This is a fork of the [original project] (https://github.com/LuxuriousNeckbeards/hurry-up) by **Luxurious Neckbeards**.
 
+## Team
+- <https://avatars0.githubusercontent.com/u/7966607?v=3" width="64"> [**Bryan Newby**] (https://github.com/brnewby602)
+
+- <img src="https://avatars.githubusercontent.com/u/15864056?v=3" width="64"> [**Alex Nitta**](https://github.com/alexnitta)
+
+- <https://avatars0.githubusercontent.com/u/15930866?v=3" width="64"> [**Toben Green**](https://github.com/tobensg)
+
+- <img src="https://avatars3.githubusercontent.com/u/13231400?v=3" width="64"> [**Trini Le**](https://github.com/trinile)
+
+
 ## Features We Added
 1. Ability to edit/delete events
 2. Directions for events, including map/route
