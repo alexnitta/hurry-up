@@ -15,6 +15,7 @@ This is a fork of the [original project] (https://github.com/LuxuriousNeckbeards
 - [**Trini Le**](https://github.com/trinile)
 
 
+
 ## Features We Added
 1. Ability to edit/delete events
 2. Directions for events, including map/route
